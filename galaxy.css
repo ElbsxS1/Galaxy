@@ -32,12 +32,12 @@ canvas {
     height: 46px;
     border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 999px;
-    background: rgba(30, 0, 8, 0.68);
-    color: #ffe8ec;
+    background: rgba(7, 12, 28, 0.72);
+    color: #eef6ff;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 0;
-    box-shadow: 0 0 28px rgba(255, 0, 46, 0.42), inset 0 0 18px rgba(255, 255, 255, 0.08);
+    box-shadow: 0 0 28px rgba(88, 166, 255, 0.34), inset 0 0 18px rgba(255, 255, 255, 0.08);
     backdrop-filter: blur(12px);
     cursor: pointer;
 }
@@ -51,3 +51,4 @@ canvas {
     pointer-events: none;
     transition: opacity 500ms ease;
 }
+
